@@ -52,13 +52,13 @@ You can visit my personal website [here](https://arijitde92.github.io/index.html
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on [Brain tumor mutation prediction](https://github.com/arijitde92/BrainTumor_Mutation_Predictor)  
+- 🔭 I’m currently working on [AI Research Paper Companion App](https://github.com/arijitde92/Research-paper-companion))  
   
 
 - 🌱 I’m currently learning OpenAI, LangChain and LLMs  
   
 
-- ❓ Ask me about anything related to medical imaging, PyTorch, deep learning.  
+- ❓ Ask me about anything related to medical imaging, PyTorch, Machine Learning, Deep Learning.
   
 
 - 💫 I am an avid photographer, intersted in spiritualism and mythology, casual gamer and hard core foodie.  
