@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://tenor.com/mM6CjkwT9UX.gif" align="center" style="width: 100%" />
-</div>  
+![hello_world_gif](https://tenor.com/mM6CjkwT9UX.gif)
   
 
 ### <div align="center">I'm Arijit De, an ML Engineer 🤖, working remotely since 2024 🖥️</div>  
@@ -112,19 +110,9 @@ Visit my personal website [here](https://arijitde92.github.io/index.html)
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arijitde92&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefined&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
+## Github Stats
+![Arijit's GitHub stats](github-readme-stats-75z8cn6vb-arijitde92s-projects.vercel.app/api?username=arijitde92)
+<br/>
 
 <div align="center">
             <a href="https://paypal.me/arijitde92" target="_blank" style="display: inline-block;">
@@ -134,6 +122,3 @@ Visit my personal website [here](https://arijitde92.github.io/index.html)
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
