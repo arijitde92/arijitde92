@@ -1,4 +1,4 @@
-![hello_world_gif](https://tenor.com/mM6CjkwT9UX.gif)
+<div class="tenor-gif-embed" data-postid="10598764531210485569" data-share-method="host" data-aspect-ratio="1.78218" data-width="100%"><a href="https://tenor.com/view/hello-world-seytonic-coding-hello-gif-10598764531210485569"></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
 
 ### <div align="center">I'm Arijit De, an ML Engineer 🤖, working remotely since 2024 🖥️</div>  
