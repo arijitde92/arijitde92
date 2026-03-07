@@ -1,6 +1,3 @@
-![hello world](hello-world.gif)
-  
-
 ### <div align="center">I'm Arijit De, an ML Engineer 🤖, working remotely since 2024 🖥️</div>  
   
 
