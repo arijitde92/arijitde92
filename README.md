@@ -3,9 +3,9 @@
 ### <div align="center">I'm Arijit De, an ML Engineer 🤖, working remotely since 2024 🖥️</div>  
   
 
-I like to work on real world projects involving Physical AI, Generative AI and Computer Vision.
+I like to work on real world projects involving Generative AI, Physical AI and Computer Vision.
 
-I am currently an ML engineer at [mVizn Pte. Ltd.](https://www.mvizn.com/) working on developing AI powered Robotic software for industrial use cases.
+I am currently an ML engineer at [mVizn Pte. Ltd.](https://www.mvizn.com/) leading the development of a multi-agent AI platform for construction domain powering Autonomous Project Management & Scheduling (APMS), and intelligent project information retrieval — serving 100 concurrent users / 3000 agent runs per day.
 
 I recently received my PhD degree on Dec'25. My PhD topic was - "Radiology and Histopathology Induced Computer Vision for Neurological Disorder Detection".  
   
@@ -22,10 +22,10 @@ Visit my personal website [here](https://arijitde92.github.io/index.html)
 - I’m currently working on [Job Application Agent](https://github.com/arijitde92/Job_Application_Agent) 💼 as a hobby project.  
   
 
-- I’m currently learning about [LeRobot](https://github.com/huggingface/lerobot), [ROS2](https://github.com/ros2) and [CrewAI](https://crewai.com/)  
+- I’m currently learning about LLM Evaluation ([Ragas](https://www.ragas.io/), [DeepEval](https://deepeval.com/)), [CrewAI](https://crewai.com/), Vision Language (VLM) and Vision Language Action (VLA) models.
   
 
-- Ask me about anything related to ROS2, Nedical Imaging, Machine Learning, Deep Learning.  
+- Ask me about anything related to Agentic AI, LLMs, Nedical Imaging, Computer Vision, Machine Learning and Deep Learning.
   
 
 - I am an avid photographer 📸, intersted in spiritualism and mythology , casual gamer 🎮 and hard core foodie 🍕  
@@ -48,6 +48,22 @@ Visit my personal website [here](https://arijitde92.github.io/index.html)
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="Pandas.svg" alt="Pandas" height="50" /></a>  
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="scikit-learn.svg" alt="Scikit Learn" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="25%">
+
+
+### GenAI  
+<div align="center">  
+<a href="https://www.langchain.com/" target="_blank"><img style="margin: 10px" src="langchain.svg" alt="LangChain" height="50" /></a>  
+<a href="https://www.crewai.com/" target="_blank"><img style="margin: 10px" src="CrewAI.svg" alt="CrewAI" height="50" /></a>  
+<a href="https://www.anthropic.com/" target="_blank"><img style="margin: 10px" src="claude.svg" alt="Claude" height="50" /></a>  
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="OpenAI.svg" alt="OpenAI" height="50" /></a>  
+<a href="https://www.pinecone.io/" target="_blank"><img style="margin: 10px" src="Pinecone.svg" alt="Pinecone" height="50" /></a>  
+<a href="https://www.anthropic.com/claude-code" target="_blank"><img style="margin: 10px" src="claudecode.svg" alt="Claude Code" height="50" /></a>  
+<a href="https://gemini.google.com/" target="_blank"><img style="margin: 10px" src="gemini-color.svg" alt="Gemini" height="50" /></a>  
+<a href="https://cloud.google.com/vertex-ai" target="_blank"><img style="margin: 10px" src="vertexai.svg" alt="Vertex AI" height="50" /></a>  
+<a href="https://modelcontextprotocol.io/" target="_blank"><img style="margin: 10px" src="mcp.svg" alt="MCP" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="25%">
